@@ -18,7 +18,7 @@
 //       '####'
 
 function steps(n, row=0, stair = ''){
-    //Solution 1
+    Solution 1
     // for(let row=0; row < n; row++){
     //     let stair = '';
 
